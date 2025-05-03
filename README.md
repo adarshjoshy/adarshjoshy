@@ -17,7 +17,7 @@
 ```javascript
 const adarsh = {
   pronouns: "he" | "him",
-  languages: ["JavaScript", "TypeScript", "Java", "Python", "C", "C++", SQL"],
+  languages: ["JavaScript", "TypeScript", "Java", "Python", "C", "C++", "SQL"],
   frameworks: ["TensorFlow", "React", "Node.js", "Oracle JET", "Selenium"],
   tools: ["Git", "Docker", "Oracle VBCS", "Jupyter Notebook", "VS Code", "IntelliJ", "Jira"],
   libraries: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "RDKit", "NTL"],
