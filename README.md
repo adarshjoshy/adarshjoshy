@@ -15,20 +15,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const adarsh = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  languages: ["JavaScript", "TypeScript", "Java", "Python", "C", "C++", SQL"],
+  frameworks: ["TensorFlow", "React", "Node.js", "Oracle JET", "Selenium"],
+  tools: ["Git", "Docker", "Oracle VBCS", "Jupyter Notebook", "VS Code", "IntelliJ", "Jira"],
+  libraries: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "RDKit", "NTL"],
+  architectures: ["Microservices", "Event-driven", "Design System Pattern"],
+  challenge: "Currently working on the #100DaysOfCode challenge with a focus on RL"
 }
 ```
 
-<em><b>:handshake: I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>🤝 I love connecting with people!</b> Feel free to say <b>hi</b> anytime! :)</em>
 
 ---
